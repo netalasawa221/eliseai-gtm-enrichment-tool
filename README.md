@@ -2,6 +2,10 @@
 
 Automates inbound lead enrichment, scoring, and personalized outreach email generation for EliseAI's sales team.
 
+🚀 **Live demo:** https://app-slideshow-jndy5ejfrhhgipxdxotomc.streamlit.app/
+
+📂 **Project plan:** [PROJECT_PLAN.md](PROJECT_PLAN.md)
+
 ## What it does
 
 For each inbound lead (name, email, company, city), the tool:
