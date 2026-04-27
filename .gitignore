@@ -1,0 +1,21 @@
+# Environment variables — never commit real keys
+.env
+
+# Virtual environment (created in ./eliseai_tool/)
+eliseai_tool/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Personal notes (not part of deliverable)
+EliseAI_Video_Script.md

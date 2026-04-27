@@ -1,0 +1,63 @@
+name,email,company,property_address,city,state,country,lead_score,tier,score_reasoning,sales_insights,outreach_subject,outreach_email,housing_units,renter_percentage,median_income,fmr_2br,metro_name,company_news_count,enrichment_errors,icp_match,company_size,company_description,email_sent
+Jordan Smith,jordan@greystar.com,Greystar,301 Congress Ave,Austin,TX,US,100,Hot,"ICP match (large operator). Major market with 449,452 housing units and a majority-renter population (55.6% renters). 2BR FMR of $1,852 in Austin-Round Rock-San Marcos, TX MSA; median income of $86,556. 3 articles of company news and 3 articles of local real estate news signal active market presence.","With 449,452 housing units, this is a major multifamily market — high unit count means high ROI on automating leasing and tenant comms. | 55.6% of households rent — majority-renter cities have the highest leasing velocity and tenant turnover, exactly where EliseAI's 24/7 AI leasing agent delivers the most time savings. | Premium rental market: 2BR FMR is $1,852 in Austin-Round Rock-San Marcos, TX MSA. High-rent properties attract tenants who expect responsive, professional management — a strong fit for EliseAI. | Recent press hook: ""Nuveen Buys Suburban South Florida Retail Center for $46M"" (Commercial Observer) — use this to open the outreach email with a timely, specific reference.",Automating leasing for Greystar's Austin portfolio,"Hi Jordan,
+
+Saw Greystar's continued expansion activity and wanted to reach out. With 55.6% of Austin households renting, the volume of leasing inquiries, maintenance requests, and tenant communication your teams handle is significant.
+
+EliseAI helps property managers automate those conversations across email, text, and chat so your leasing staff can focus on higher-value work. Teams typically see faster response times and improved conversion without adding headcount.
+
+Given Greystar's scale in a market this active, I thought it might be worth a conversation.
+
+Worth a 15-min chat next week?
+
+Best,
+[Your Name]",449452,55.6,86556,1852.0,"Austin-Round Rock-San Marcos, TX MSA",3,,YES,LARGE,"Greystar is the largest apartment operator and property manager in the US with over 700,000 units globally, making it a top-tier ICP match for EliseAI's multifamily leasing and tenant communication tools.",
+Priya Patel,priya@avaloncommunities.com,AvalonBay Communities,55 Ironside Pl,Newark,NJ,US,86,Hot,"ICP match (large operator). Large market with 121,773 housing units and a majority-renter population (76.1% renters). 2BR FMR of $2,205 in Newark, NJ HUD Metro FMR Area; median income of $46,460. 3 articles of company news and 3 articles of local real estate news signal active market presence.","With 121,773 housing units, this is a major multifamily market — high unit count means high ROI on automating leasing and tenant comms. | 76.1% of households rent — majority-renter cities have the highest leasing velocity and tenant turnover, exactly where EliseAI's 24/7 AI leasing agent delivers the most time savings. | Premium rental market: 2BR FMR is $2,205 in Newark, NJ HUD Metro FMR Area. High-rent properties attract tenants who expect responsive, professional management — a strong fit for EliseAI. | Recent press hook: ""Property-Focused Real Estate Investment Trusts Are Proving Resilient"" (Commercial Observer) — use this to open the outreach email with a timely, specific reference.",AvalonBay's resilience + Newark's 76% renter market,"Hi Priya,
+
+Saw the Commercial Observer piece on property-focused REITs holding strong — makes sense given markets like Newark, where 76.1% of households rent.
+
+With that kind of renter density, leasing teams are fielding a constant volume of inquiries, maintenance requests, and renewal conversations. EliseAI handles those interactions automatically, 24/7, so your on-site staff can focus on higher-value work.
+
+We work with several large multifamily operators who've cut response times significantly without adding headcount.
+
+Worth a 15-min chat next week?
+
+Best,
+[Your Name]",121773,76.1,46460,2205.0,"Newark, NJ HUD Metro FMR Area",3,,YES,LARGE,"AvalonBay Communities is one of the largest publicly traded multifamily REITs in the US, owning and operating over 80,000 apartment homes across premium markets, making it a top-tier ICP match and NMHC top 10 operator.",
+Marcus Rivera,marcus@relatedcos.com,Related Companies,900 Biscayne Blvd,Miami,FL,US,86,Hot,"ICP classification uncertain. Large market with 214,820 housing units and a majority-renter population (69.9% renters). 2BR FMR of $2,436 in Miami-Miami Beach-Kendall, FL HUD Metro FMR Area; median income of $54,858. 3 articles of company news and 3 articles of local real estate news signal active market presence.","ICP status is uncertain — confirm this company manages multifamily residential properties before investing in heavy outreach. | With 214,820 housing units, this is a major multifamily market — high unit count means high ROI on automating leasing and tenant comms. | 69.9% of households rent — majority-renter cities have the highest leasing velocity and tenant turnover, exactly where EliseAI's 24/7 AI leasing agent delivers the most time savings. | Premium rental market: 2BR FMR is $2,436 in Miami-Miami Beach-Kendall, FL HUD Metro FMR Area. High-rent properties attract tenants who expect responsive, professional management — a strong fit for EliseAI.",Keeping up with Miami's 69.9% renter market,"Hi Marcus,
+
+With nearly 70% of Miami households renting, the volume of leasing inquiries, maintenance requests, and tenant communication Related Companies manages is substantial — and that pressure only grows as new tax proposals target luxury renters in markets like yours.
+
+EliseAI helps property management teams automate those conversations across text, email, and chat, so your leasing and ops teams can focus on higher-value work instead of answering the same questions repeatedly.
+
+We work with several large multifamily operators in high-density rental markets and typically see meaningful reductions in response time and staffing overhead within the first quarter.
+
+Worth a 15-min chat next week?
+
+Best,
+[Your Name]",214820,69.9,54858,2436.0,"Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",3,,UNCERTAIN,LARGE,"Related Companies is a large real estate conglomerate (developer of Hudson Yards) with a mixed portfolio including multifamily residential, but recent news headlines suggest commercial/retail activity, making ICP applicability uncertain without clarity on their residential property management operations.",
+Ashley Chen,ashley@highdesertpm.com,High Desert Property Management,1200 Main St,Boise,ID,US,45,Warm,"ICP classification uncertain. Large market with 102,878 housing units and a renter population (37.1% renters). 2BR FMR of $1,655 in Boise City, ID HUD Metro FMR Area; median income of $76,402. No recent company news found; 3 articles of local real estate news available.","ICP status is uncertain — confirm this company manages multifamily residential properties before investing in heavy outreach. | With 102,878 housing units, this is a major multifamily market — high unit count means high ROI on automating leasing and tenant comms. | Mid-to-high 2BR FMR ($1,655 in Boise City, ID HUD Metro FMR Area) signals a competitive rental market where automation gives PMs an edge in responsiveness. | Local market news angle: ""We bought a family business for $40,000 and moved to Boise. We are raising our daughter to"" — reference the local market context even without company-specific news.",Automating leasing for Boise's growing renter base,"Hi Ashley,
+
+With 37.1% of Boise households renting, High Desert is likely fielding a steady volume of leasing inquiries, maintenance requests, and renewal conversations every week.
+
+EliseAI helps property managers automate those touchpoints — handling prospect follow-ups, scheduling tours, and triaging maintenance tickets around the clock, without adding headcount.
+
+Teams using EliseAI typically see faster lease-up times and fewer leads slipping through the cracks during off-hours.
+
+Given Boise's continued growth, I thought it might be timely to connect.
+
+Worth a 15-min chat next week?
+
+Best,
+[Your Name]",102878,37.1,76402,1655.0,"Boise City, ID HUD Metro FMR Area",0,,UNCERTAIN,UNKNOWN,"High Desert Property Management is a likely small/regional property management firm, but without additional information it's unclear whether they manage multifamily residential apartments or other property types such as single-family or commercial.",
+Tom Rivera,tom@heritageacres.com,Heritage Acres,450 Pancake Blvd,Liberal,KS,US,12,Cold,"ICP classification uncertain. Small market with 7,276 housing units and a renter population (37.5% renters). No HUD Fair Market Rent data available — likely rural/non-MSA area; median income of $55,602. No recent company news found; 3 articles of local real estate news available.","ICP status is uncertain — confirm this company manages multifamily residential properties before investing in heavy outreach. | Smaller market (7,276 units) — EliseAI can help this PM punch above their weight with AI-driven tenant communication. | No MSA rental data found — this may be a rural market. Confirm property type before prioritizing outreach. | Local market news angle: ""Carney suspends Canada's fuel tax in first act after securing a majority government"" — reference the local market context even without company-specific news.",Automating leasing at Heritage Acres,"Hi Tom,
+
+With 37.5% of Liberal households renting, your team is likely fielding a steady stream of leasing inquiries, maintenance requests, and follow-ups every week.
+
+EliseAI helps property managers like you handle those conversations automatically, across text, email, and chat, so your staff can focus on higher-value work instead of repetitive back-and-forth.
+
+We work with smaller regional portfolios too, not just big operators, and setup is straightforward.
+
+Worth a 15-min chat next week?
+
+Best,
+[Your Name]",7276,37.5,55602,,,0,HUD,UNCERTAIN,UNKNOWN,Heritage Acres is an ambiguous name with no available news or context to determine whether it operates multifamily residential properties or belongs to an entirely different industry.,
